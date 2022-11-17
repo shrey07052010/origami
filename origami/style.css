@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: linear-gradient(black 35%,red 65%);
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(182, 220, 238);
+}
+
+#origami1{
+    background-color: linear-gradient(chocolate 65%,red 35%);
+}
+
+#origami2{
+    background-color: linear-gradient(turquoise 65%,green 35%);
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
